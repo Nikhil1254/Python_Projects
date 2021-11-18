@@ -1,0 +1,2 @@
+•about rand() and srand() → https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/
+•about time() → https://www.geeksforgeeks.org/time-function-in-c/ 
